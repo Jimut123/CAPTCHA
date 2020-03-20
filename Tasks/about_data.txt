@@ -1,0 +1,15 @@
+
+
+digialm => https://cdn3.digialm.com/captchaservice/getImageChallenge?appId=30&imageKey={}&captchaType=alphanumeric&dummy={}
+
+JAM => https://joaps.iitk.ac.in/genCaptcha.html
+
+samples => https://www.kaggle.com/fournierp/captcha-version-2-images
+
+captcha_4_letter => https://www.kaggle.com/genesis16/captcha-4-letter
+
+captcha_2_text => https://www.kaggle.com/famadio/captcha-2-text
+
+j_samples => https://www.kaggle.com/yala323/jcaptchasamples
+
+captcha_v2 => https://www.kaggle.com/shawon10/captcha-recognition
