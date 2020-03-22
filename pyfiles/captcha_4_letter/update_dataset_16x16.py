@@ -1,5 +1,9 @@
-
-# 1104
+"""
+A script to create the dataset c4l-16x16_550.tar.gz
+Author: Jimut
+        20-03-2020
+# 550 is the minimum number
+"""
 
 import glob
 import cv2
