@@ -1,5 +1,6 @@
 """
 A script to extract all the digits from the captcha, updated version...
+For dataset captcha_4_letter
 Author: Jimut
         20-03-2020
 """
