@@ -7,8 +7,8 @@ import os
 import tkinter as tk
 from PIL import ImageTk, Image
 import matplotlib.pyplot as plt
-files = glob.glob('JAM/captcha_*.png')
-
+#files = glob.glob('JAM/captcha_*.png')
+files = glob.glob('*.png')
 
 for file_ in files:
     root = tk.Tk()
