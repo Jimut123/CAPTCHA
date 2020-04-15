@@ -6,7 +6,7 @@ import os
 import uuid
 from tqdm import tqdm
 import argparse
-
+# python captcha.py --width 150 --height 40 --num-characters 4 --path data2 --num-images 1000000
 wd, _ = os.path.split(os.path.abspath(__file__))
 
 
