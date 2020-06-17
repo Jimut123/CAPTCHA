@@ -9,7 +9,7 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 #### Cite as:
 ```
-Pal, Jimut Bahan, Maharaj, Dripta, Deceiving Computers in Reverse Turing Test through Deep Learning (June 10, 2020). [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3624282)
+Pal, Jimut Bahan, Maharaj, Dripta, Deceiving Computers in Reverse Turing Test through Deep Learning (June 10, 2020). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3624282
 ```
 
 #### Datas used which are available in Kaggle are:
