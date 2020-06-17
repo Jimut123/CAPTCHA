@@ -1,16 +1,19 @@
 # CAPTCHA
 
+We have build many models to solve some of the difficult open sourced CAPTCHAs that are available on the internet. We have obtained about more than 99.5% accuracy on most of the models, which converges at about 5 epochs. The ``generators`` folder have some of the modified codes that we have used to generate the data to feed into the model. The ``pyfiles`` folder section have all of the models and their corresponding python codes. 
 
-The start of Masters Machine Learning Final Project (RKMVERI). 
+#### Thesis:
 
-The main aim will be to provide a survey of current captcha breaking technologies (obviously open sourced), and to publish a paper if possible at the end of the investigation. The extensive use of DNN and other image manipulation technologies will be the main aim of this project. We will extensively use kernels available from Kaggle, which will help us to provide a backbone for our research. We will train in collaboratory as much as possible so we are keeping the data here itself.
-
-
+[Deceiving Computers in Reverse Turing Test through Deep Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3624282)
 
 
-#### Datas used here are:
+#### Cite as:
+```
+Pal, Jimut Bahan, Maharaj, Dripta, Deceiving Computers in Reverse Turing Test through Deep Learning (June 10, 2020). [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3624282)
+```
 
-Note: all the datas used here are present in the data folder.
+#### Datas used which are available in Kaggle are:
+
 
 **..data/digialm** - [https://cdn3.digialm.com/captchaservice/getImageChallenge?appId=30&imageKey={}&captchaType=alphanumeric&dummy={}](https://cdn3.digialm.com/captchaservice/getImageChallenge?appId=30&imageKey={}&captchaType=alphanumeric&dummy={}) 
 
