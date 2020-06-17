@@ -1,0 +1,4 @@
+include README.md
+recursive-include minicaptcha/fonts *.ttf
+recursive-include minicaptcha/fonts *.txt
+

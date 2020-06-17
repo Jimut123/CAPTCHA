@@ -1,0 +1,16 @@
+
+MadeType
+behance.com/madetype
+
+END USER LICENSE AGREEMENT
+
+- You can use it freely for all your PERSONAL WORK. 
+
+- Contact me at Madetypeinfo@gmail.com before commercial using it.
+
+- MadeType is not liable for any damage resulting from the use ot this typeface.
+
+- All rights are retained by MadeType.
+
+
+THANK YOU!
