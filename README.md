@@ -5,9 +5,8 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 #### Thesis:
 [Deceiving computers in Reverse Turing Test through Deep Learning](https://arxiv.org/abs/2006.11373)
 
-```
-
 Advisor: [Dripta Mj](http://www2.eng.ox.ac.uk/civil/efm/people/dripta-sarkar)
+```
 @misc{pal2020deceiving,
     title={Deceiving computers in Reverse Turing Test through Deep Learning},
     author={Jimut Bahan Pal},
