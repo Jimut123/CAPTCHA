@@ -4,9 +4,13 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 #### Results:
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| CAPTCHA  | Algorithm used  | Accuracy Obtained |
 | :------------ |:---------------:| -----:|
-| ![alt text](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/JAM/1%2B7.png)      | some wordy text | $1600 |
+| ![alt text](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/JAM/1%2B7.png)      | kNN | 99.53% |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
