@@ -31,13 +31,18 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 ## BibTeX and citations
 
 ```
-@misc{pal2020deceiving,
-    title={Deceiving computers in Reverse Turing Test through Deep Learning},
-    author={Jimut Bahan Pal},
-    year={2020},
-    eprint={2006.11373},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{DBLP:journals/corr/abs-2006-11373,
+  author    = {Jimut Bahan Pal},
+  title     = {Deceiving computers in Reverse Turing Test through Deep Learning},
+  journal   = {CoRR},
+  volume    = {abs/2006.11373},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2006.11373},
+  archivePrefix = {arXiv},
+  eprint    = {2006.11373},
+  timestamp = {Tue, 23 Jun 2020 17:57:22 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2006-11373.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
