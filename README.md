@@ -4,20 +4,22 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 ## Results
 
-| CAPTCHA name| CAPTCHA  img| Algorithm used  | Accuracy Obtained |
-| :------------ | :------------: |:---------------:| -----:|
-| JAM CAPTCHA| ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/JAM/1%2B7.png)      | kNN | 99.53% |
-| CNN_c4l_16x16_550 | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/c4l_16x16_550/c4l_ex.png)      | CNN - modified CIFAR 10         |   99.91% |
-| captcha-1L |  ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/captcha-1L/2a2aa.png)   | Own CNN model - multilabel classification     |    99.67% |
-| captcha_4_letter | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/captcha_4_letter/c4l.png) | LSTM model - multilabel classification    |   99.87% |
-| captcha_v2 | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/captcha_v2/captcha_v2.png) | Own CNN - multilabel classification      |   90.102% |
-| circle_captcha | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/circle_captcha/circle_captcha.png)      | Alex Net with multilabel classification       |   99.99% |
-| faded | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/faded/captcha_faded.png) | Alex Net with multilabel classification        |    99.44% |
-| fish_eye | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/fish_eye/fish_eye.png) | Alex Net with multilabel classification        |    99.46% |
-| mini_captcha  | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/mini_captcha/10epochs/mini_captcha.png) | Alex Net with multilabel classification        |    97.25% |
-| multicolor  | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/multicolor/mc_full.png) | Alex Net with multilabel classification        |    95.69% |
-| railway_captcha | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/railway_captcha/3_letter/604_1.png) | Own CNN model        |    99.94% |
-| sphinx   | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/sphinx/sphinx.png) | Alex Net with multilabel classification        |    99.62% |
+| CAPTCHA name| CAPTCHA  img| Algorithm used  | Accuracy Obtained | Try out in Google Colab|
+| :------------ | :------------: |:---------------:| :-----:| -----:|
+| JAM CAPTCHA | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/JAM/1%2B7.png)| kNN | 99.53% | |
+
+| CNN_c4l_16x16_550 | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/c4l_16x16_550/c4l_ex.png) | CNN - modified CIFAR 10 | 99.91% | |
+
+| captcha-1L | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/captcha-1L/2a2aa.png)  | Own CNN model - multilabel classification | 99.67% | |
+| captcha_4_letter | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/captcha_4_letter/c4l.png) | LSTM model - multilabel classification | 99.87% | |
+| captcha_v2 | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/captcha_v2/captcha_v2.png) | Own CNN - multilabel classification | 90.102% | |
+| circle_captcha | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/circle_captcha/circle_captcha.png) | Alex Net with multilabel classification | 99.99% | |
+| faded | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/faded/captcha_faded.png) | Alex Net with multilabel classification | 99.44% | |
+| fish_eye | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/fish_eye/fish_eye.png) | Alex Net with multilabel classification | 99.46% | |
+| mini_captcha  | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/mini_captcha/10epochs/mini_captcha.png) | Alex Net with multilabel classification        | 97.25% | |
+| multicolor | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/multicolor/mc_full.png) | Alex Net with multilabel classification | 95.69% | |
+| railway_captcha | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/railway_captcha/3_letter/604_1.png) | Own CNN model | 99.94% | |
+| sphinx | ![img](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/sphinx/sphinx.png) | Alex Net with multilabel classification | 99.62% | |
 
 
 ## Documentation
