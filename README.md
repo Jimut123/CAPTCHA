@@ -24,8 +24,6 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 [[Thesis - Deceiving computers in Reverse Turing Test through Deep Learning](https://arxiv.org/abs/2006.11373)] | [[Slides](https://jimut123.github.io/files/JBP_SCRIPTS/JBP_021.pdf)]
 
-[![Watch the video](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/c4l_16x16_550/t-SNE_c4l-16x16_550.mp4)](https://github.com/Jimut123/CAPTCHA/blob/master/pyfiles/c4l_16x16_550/t-SNE_c4l-16x16_550.mp4)
-
 
 ## Advisor and Acknowledgements 
 
