@@ -1,11 +1,8 @@
 
-<p style="text-align: center;">
-    <h1> CAPTCHA </h1>
-</p>
 
 ***
 
-<p align="center">centered text</p>
+<p align="center"><h1> CAPTCHA </h1></p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
