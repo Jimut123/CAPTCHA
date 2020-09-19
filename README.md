@@ -1,8 +1,10 @@
 
 
-***
+<p align="center">
+    <img src="https://github.com/Jimut123/CAPTCHA/blob/master/captcha.png">
+</p>
 
-<center><h1> CAPTCHA </h1></center>
+***
 
 <p align="center">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
