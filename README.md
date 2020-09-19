@@ -42,7 +42,7 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;<h6>Frequently Asked Questions</h6></a>    
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp; <bold>Frequently Asked Questions</bold> </a>    
 </summary>
 
 <ul>
