@@ -1,4 +1,14 @@
-# CAPTCHA
+<p align="center">
+    <h1> CAPTCHA </h1>
+</p>
+
+***
+
+<p align="center">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+     <img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg">
+</p>
+
 
 We have build many models to solve some of the difficult open sourced CAPTCHAs that are available on the internet. We have obtained about more than 99.5% accuracy on most of the models, which converges at about 5 epochs. The ``generators`` folder have some of the modified codes that we have used to generate the data to feed into the model. The ``pyfiles`` folder section have all of the models and their corresponding python codes. 
 
@@ -32,7 +42,7 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Frequently Asked Questions</a>    
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;<h6>Frequently Asked Questions</h6></a>    
 </summary>
 
 <ul>
