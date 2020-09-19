@@ -5,6 +5,8 @@
 
 ***
 
+<p align="center">centered text</p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
      <img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg">
