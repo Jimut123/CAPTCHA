@@ -47,8 +47,8 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 ## Acknowledgements 
 
-* [nlACh](https://github.com/nlACh)
-* [41x3n](https://github.com/41x3n)
+* [nlACh](https://github.com/nlACh) [Help regarding data uploading]
+* [41x3n](https://github.com/41x3n) [Help regarding data uploading]
 
 <details>
 <summary>
