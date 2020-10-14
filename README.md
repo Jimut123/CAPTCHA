@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     <img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg">
     <a href="https://doi.org/10.5281/zenodo.4041154"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4041154.svg" alt="DOI"></a>
+    <a href="https://paperswithcode.com/paper/deceiving-computers-in-reverse-turing-test" target="_blank"><img src="https://raw.githubusercontent.com/Jimut123/wisp/master/pwc.svg" height="30" width="40"> Papers With Code</a>
 </p>
 
 # CAPTCHA 
