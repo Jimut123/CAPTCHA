@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg">
     <a href="https://doi.org/10.5281/zenodo.4041154"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4041154.svg" alt="DOI"></a>
     <img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deceiving-computers-in-reverse-turing-test/captcha-detection-on-jam-captcha">
+    <a href="https://arxiv.org/abs/2002.05886"><img src="http://img.shields.io/badge/arXiv-2002.05886-B31B1B.svg></a>
     
 </p>
 
