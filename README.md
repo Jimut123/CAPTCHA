@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/Jimut123/CAPTCHA/blob/master/captcha.png">
+    <img src="https://raw.githubusercontent.com/Jimut123/CAPTCHA/master/captcha.png">
 </p>
 
 ***
