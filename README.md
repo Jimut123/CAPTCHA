@@ -18,6 +18,11 @@
 
 # CAPTCHA 
 
+## Abstract
+
+It is increasingly becoming difficult for human beings to work on their day to day life without going through the process of reverse Turing test, where the Computers tests the users to be humans or not. Almost every website and service providers today have the process of checking whether their website is being crawled or not by automated bots which could extract valuable information from their site. In the process the bots are getting more intelligent by the use of Deep Learning techniques to decipher those tests and gain unwanted automated access to data while create nuisance by posting spam. Humans spend a considerable amount of time almost every day when trying to decipher CAPTCHAs. The aim of this investigation is to check whether the use of a subset of commonly used CAPTCHAs, known as the text CAPTCHA is a reliable process for verifying their human customers. We mainly focused on the preprocessing step for every CAPTCHA which converts them in binary intensity and removes the confusion as much as possible and developed various models to correctly label as many CAPTCHAs as possible. We also suggested some ways to improve the process of verifying the humans which makes it easy for humans to solve the existing CAPTCHAs and difficult for bots to do the same. 
+
+#### Note:
 
 We have build many models to solve some of the difficult open sourced CAPTCHAs that are available on the internet. We have obtained about more than 99.5% accuracy on most of the models, which converges at about 5 epochs. The ``generators`` folder have some of the modified codes that we have used to generate the data to feed into the model. The ``pyfiles`` folder section have all of the models and their corresponding python codes. 
 
