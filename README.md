@@ -51,7 +51,7 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 ## Advisor 
 
-* [Dripta Mj](http://www2.eng.ox.ac.uk/civil/efm/people/dripta-sarkar)
+* [Dripta Mj](https://web.archive.org/web/20200624004219/http://www2.eng.ox.ac.uk/civil/efm/people/dripta-sarkar)
 
 ## Acknowledgements 
 
